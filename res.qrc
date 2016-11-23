@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>translations/fourccchanger_ru.ts</file>
+        <file>translations/fourccchanger_ru.qm</file>
+    </qresource>
+</RCC>
